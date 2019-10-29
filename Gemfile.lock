@@ -1,0 +1,17 @@
+GIT
+  remote: https://github.com/denuk96/converter
+  revision: fa16ac8b9d18d5265ac384895f73f922692a7907
+  specs:
+    converter (0.1.5)
+
+GEM
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  converter!
+
+BUNDLED WITH
+   2.0.2
